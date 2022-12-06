@@ -10,7 +10,7 @@ namespace SMART.GCP.Purchasing.Api.Controllers
         [HttpGet]
         public string Get()
         {
-            return "srinivas";
+            return "srinivas Reddy";
         }
 
     }
